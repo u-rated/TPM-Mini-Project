@@ -234,7 +234,6 @@
     .nav__list{
         grid-template-columns: repeat(3, 1fr);
         gap: 2rem;
-        
     }
 
     .nav__link{
@@ -1057,9 +1056,5 @@
             margin-top: 4.5rem;
         }
         
-        
-        
-
 }
-
      /** For Large Devices */ }
